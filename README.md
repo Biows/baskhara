@@ -1,1 +1,1 @@
-# http//biows.github.io/baskhara/
+# https://biows.github.io/baskhara/
